@@ -6,8 +6,14 @@
 #### Ainsi le sujet proposé consiste à étudier et de mettre en oeuvre une méthode de détection de personnes au niveau d'un passage piéton.
 
 
+### Plan de travail :
 
-
+#### Processus à réalisation du projet
+#### Outils à utilisés
+#### Préparation du dataset
+#### Choix du modèle
+#### Entraînement du modèle
+#### Evaluation et Bilan
 
 
 ##### Sources web:
