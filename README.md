@@ -12,5 +12,5 @@ détection de personnes au niveau d'un passage piéton, .
 
 
 
-####### Sources web:
-####### -  https://towardsdatascience.com/object-detection-on-aerial-imagery-using-retinanet-626130ba2203
+##### Sources web:
+##### -  https://towardsdatascience.com/object-detection-on-aerial-imagery-using-retinanet-626130ba2203
