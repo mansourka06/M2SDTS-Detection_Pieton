@@ -18,3 +18,4 @@
 
 ##### Sources web:
 ##### - https://towardsdatascience.com/object-detection-on-aerial-imagery-using-retinanet-626130ba2203
+##### - https://www.analyticsvidhya.com/blog/2020/08/how-to-build-a-face-mask-detector-using-retinanet-model/
