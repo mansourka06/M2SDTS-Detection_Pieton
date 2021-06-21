@@ -8,12 +8,12 @@
 
 ### Plan de travail :
 
-#### Processus à réalisation du projet
-#### Outils à utilisés
-#### Préparation du dataset
-#### Choix du modèle
-#### Entraînement du modèle
-#### Evaluation et Bilan
+#### - Processus à réalisation du projet
+#### - Outils à utilisés
+#### - Préparation du dataset
+#### - Choix du modèle
+#### - Entraînement du modèle
+#### - Evaluation et Bilan
 
 
 ##### Sources web:
